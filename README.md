@@ -15,12 +15,13 @@
 По завершении этого проекта будет добавлен pytest, для запуска тестов и новый функционал
 ## Инструкция по установке
 1.Чтобы скачать репозиторий:
-git clone https://github.com/Andrej22071999/project-x.git
+* git clone https://github.com/Andrej22071999/project-x.git
+
 2.Установить не обходимые зависимости
-pip install -r requirements.txt
-Немного подождать
+* pip install -r requirements.txt
+* Немного подождать
 ## Команда проекта:
-* Андрей Фоминов — Back-End Engineer
+* Андрей Фоминов — Back-End developer
 ## Контакт для связи с командой разработки:
 * fominovwww@gmail.com
 ## Источники

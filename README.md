@@ -15,7 +15,7 @@
 По завершении этого проекта будет добавлен pytest, для запуска тестов и новый функционал
 ## Инструкция по установке
 1.Чтобы скачать репозиторий:
-git clone https://github.com/Andrej22071999/project-x.git
+* git clone https://github.com/Andrej22071999/project-x.git
 
 2.Установить не обходимые зависимости
 * pip install -r requirements.txt

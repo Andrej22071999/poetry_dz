@@ -20,7 +20,7 @@ git clone https://github.com/Andrej22071999/project-x.git
 pip install -r requirements.txt
 Немного подождать
 ## Команда проекта:
-* Андрей Фоминов — Back-End Engineer
+* Андрей Фоминов — Back-End developer
 ## Контакт для связи с командой разработки:
 * fominovwww@gmail.com
 ## Источники

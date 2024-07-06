@@ -16,6 +16,7 @@
 ## Инструкция по установке
 1.Чтобы скачать репозиторий:
 git clone https://github.com/Andrej22071999/project-x.git
+
 2.Установить не обходимые зависимости
 * pip install -r requirements.txt
 * Немного подождать

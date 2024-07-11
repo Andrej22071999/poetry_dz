@@ -14,7 +14,7 @@ Visa Gold 5999414228426353
 date = "2018-07-11T02:26:18.671407"
 
 
-def mask_account_cart(type_and_number_cart: str) -> str:
+def mask_account_card(type_and_number_cart: str) -> str:
     """
     Функция принимает тип и номер карты
     или номер счета выводя их замаскированными
@@ -64,5 +64,5 @@ def get_data(raw_date: str) -> str:
 
 
 if __name__ == "__main__":
-    print(mask_account_cart(cart_and_account_numbers))
+    print(mask_account_card(cart_and_account_numbers))
     print(get_data(date))

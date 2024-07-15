@@ -25,4 +25,4 @@ def mask_elements(element: str) -> str | None:
 def get_date(date: str) -> str:
     """функция получает дату из полученных данных, и выводит её"""
     day, month, year = date[8:10], date[5:7], date[:4]
-    return f"{day}.{month}.{year}"
+    return f'{day}.{month}.{year}'

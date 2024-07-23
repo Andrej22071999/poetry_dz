@@ -1,0 +1,8 @@
+2024-07-15 03:56:02,505 masks.py INFO: start masked_card_num 7000792289606361
+2024-07-15 03:56:02,506 masks.py INFO: mask 7000 79** **** 6361
+2024-07-15 03:56:02,508 masks.py INFO: start masked_account_num 73654108430135874305
+2024-07-15 03:56:02,508 masks.py INFO: mask **4305
+2024-07-15 04:07:01,150 masks.py INFO: start masked_card_num 7000792289606361
+2024-07-15 04:07:01,150 masks.py INFO: mask 7000 79** **** 6361
+2024-07-15 04:07:01,152 masks.py INFO: start masked_account_num 73654108430135874305
+2024-07-15 04:07:01,152 masks.py INFO: mask **4305
